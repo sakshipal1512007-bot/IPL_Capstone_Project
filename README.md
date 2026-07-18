@@ -34,7 +34,6 @@ pip install -r requirements.txt
 📂 Project Structure
 ├── data/                # Raw and processed datasets
 ├── notebooks/           # Jupyter notebooks for analysis
-├── app.py               # Streamlit/Flask app
 ├── requirements.txt     # Dependencies
 ├── README.md            # Project documentation
 
